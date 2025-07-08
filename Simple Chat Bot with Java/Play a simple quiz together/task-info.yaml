@@ -1,0 +1,15 @@
+type: edu
+files:
+  - name: src/bot/SimpleBot.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/113/stages/618/implement#comment
+status: Solved
+feedback:
+  message: 做得好! 您已经完成了这个项目。请在 <a href="https://hyperskill.org/projects">Hyperskill</a>
+    上选择一个新项目继续学习。
+  time: "Tue, 08 Jul 2025 03:17:30 UTC"
+record: -1
